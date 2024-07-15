@@ -1,4 +1,4 @@
-# Endriw Costa 
+# Eu sou Endriw Costa 
 
 ## Bem vindo ao meu GitHub! 👋
 
