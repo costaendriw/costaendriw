@@ -1,19 +1,26 @@
-# Eu sou Endriw Costa 
+# Endriw Costa
 
-## Bem vindo ao meu GitHub! 👋
+Desenvolvedor de software altamente motivado e proativo com sólida experiência em desenvolvimento back-end, utilizando Java, Spring e diversas tecnologias de banco de dados (PostgreSQL, MySQL, NoSQL, MongoDB). Possuo forte domínio de princípios de POO, algoritmos e controle de versão (Git/GitHub). Sou um solucionador de problemas dedicado, com excelente capacidade de comunicação e trabalho em equipe, e sempre buscando aprimorar minhas habilidades através da exploração de novas tecnologias como AI (Google Gemini, ChatGPT) e ferramentas de desenvolvimento (Postman, Lambda).
 
-Eu sou Desenvolvedor Java Junior. Apaixonado por tecnologia e novos aprendizados. Curioso por novas tecnologias e ferramentas.
+## Habilidades Técnicas:
 
+**Linguagens de Programação:** Java, JavaScript, Node.js, HTML, CSS
 
-  ![funny-animals-lidia](https://github.com/costaendriw/costaendriw/assets/157756996/cf07fc5f-1010-4bbf-980b-2d332ebdce17)
+**Frameworks e Bibliotecas:** Spring, JPA
 
-# 🖥️ Tecnologias e Ferramentas:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+**Bancos de Dados:** PostgreSQL, MySQL, MongoDB (NoSQL)
 
+**Sistemas Operacionais:** Linux, Windows
 
-## 🖥️ Estou aprendendo:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+**Ferramentas de Desenvolvimento:** IntelliJ IDEA, VSCode, Git, GitHub, Postman, Lambda
 
+**Cloud Computing:** AWS Lambda (mencionar outras se aplicável)
+
+**Virtualização:** Oracle VM
+
+**Conceitos:** Programação Orientada a Objetos (POO), Algoritmos, APIs, Inteligência Artificial (AI) – Google Gemini e ChatGPT
+
+**Outras:** Comunicação eficaz, Resolução de Problemas, Negociação, Trabalho em equipe, Proatividade, Facilidade de aprendizagem
 
 ### Contatos: 
 <div>
