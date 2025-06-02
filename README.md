@@ -4,7 +4,7 @@ Desenvolvedor de software altamente motivado e proativo com sólida experiência
 
 ## Habilidades Técnicas:
 
-**Linguagens de Programação:** Java, JavaScript, Node.js, HTML, CSS
+**Linguagens de Programação:** Java, Python, JavaScript, Node.js, HTML, CSS
 
 **Frameworks e Bibliotecas:** Spring, JPA
 
