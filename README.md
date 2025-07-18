@@ -1,37 +1,45 @@
-# Endriw Costa
+# Olá! 👋 Sou Endriw Costa
 
-Desenvolvedor de software altamente motivado e proativo com sólida experiência em desenvolvimento back-end, utilizando Java, Spring e diversas tecnologias de banco de dados (PostgreSQL, MySQL, NoSQL, MongoDB). Possuo forte domínio de princípios de POO, algoritmos e controle de versão (Git/GitHub). Sou um solucionador de problemas dedicado, com excelente capacidade de comunicação e trabalho em equipe, e sempre buscando aprimorar minhas habilidades através da exploração de novas tecnologias como AI (Google Gemini, ChatGPT) e ferramentas de desenvolvimento (Postman, Lambda).
+Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Minha jornada na programação tem sido diversificada, explorando diferentes tecnologias e paradigmas.
 
-## Habilidades Técnicas:
+## 🚀 Minha Trajetória & Experiências Anteriores
 
-**Linguagens de Programação:** Java, Python, JavaScript, Node.js, HTML, CSS
+No meu GitHub, você pode ver projetos que demonstram minha experiência prévia com:
 
-**Frameworks e Bibliotecas:** Spring, JPA
+* **Desenvolvimento Back-end:**
+    * **Java com Spring Boot:** Construção de APIs robustas e performáticas, como o [ScreenMatch (Back-end)](https://github.com/costaendriw/screenmatch_SpringBoot_Sem_WEB.git) e a API de [Tabela FIPE](https://github.com/costaendriw/tabela-fipe-spring.git).
+    * **Node.js com Express e MongoDB:** Criação de APIs RESTful para gerenciamento de dados, exemplificado na minha [API de Cadastro de Clientes](https://github.com/costaendriw/API-Node.git).
 
-**Bancos de Dados:** PostgreSQL, MySQL, MongoDB (NoSQL)
+Esses projetos me proporcionaram uma base sólida em arquitetura de sistemas, consumo de APIs e persistência de dados.
 
-**Sistemas Operacionais:** Linux, Windows
+## 🐍 Foco Atual: Python, Ciência de Dados e Inteligência Artificial
 
-**Ferramentas de Desenvolvimento:** IntelliJ IDEA, VSCode, Git, GitHub, Postman, Lambda
+Agora, estou direcionando meus estudos e minha paixão para o universo de **Python**, com um forte foco em:
 
-**Cloud Computing:** AWS Lambda (mencionar outras se aplicável)
+* **Ciência de Dados:** Aprendendo a coletar, limpar, analisar e visualizar grandes volumes de dados para extrair insights valiosos.
+* **Inteligência Artificial (IA) & Machine Learning (ML):** Explorando algoritmos de aprendizado de máquina e suas aplicações práticas para resolver problemas complexos.
+* **Desenvolvimento Python:** Aprofundando em boas práticas de programação Python e desenvolvimento de aplicações.
 
-**Virtualização:** Oracle VM
+Busco expandir minhas habilidades e contribuir com soluções inovadoras em áreas de alto impacto, utilizando o poder de Python para análise e IA.
 
-**Conceitos:** Programação Orientada a Objetos (POO), Algoritmos, APIs, Inteligência Artificial (AI) – Google Gemini e ChatGPT
+## 🌱 O Que Estou Aprendendo & Buscando
 
-**Outras:** Comunicação eficaz, Resolução de Problemas, Negociação, Trabalho em equipe, Proatividade, Facilidade de aprendizagem
+Estou constantemente aprendendo sobre:
 
-### Contatos: 
-<div>
-<a href="https://instagram.com/costaendriw" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:endriwcosta3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/endriw-costa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> 
+* Bibliotecas Python como `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
+* Conceitos de Machine Learning (supervisionado, não supervisionado, etc.).
+* Fundamentos de Deep Learning e redes neurais (TensorFlow/PyTorch - futuro).
+* Engenharia de Dados (introdução).
 
-<div>
-<a href="https://github.com/costaendriw">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaendriw&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=costaendriw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
+## 📊 Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=costaendriw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=costaendriw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤝 Conecte-se Comigo!
+
+Estou sempre aberto a novas conexões e oportunidades de aprendizado. Vamos trocar ideias!
+
+* **LinkedIn:** [www.linkedin.com/in/endriwcosta`]
+* **Email:** endriwcosta3@gmail.com
+
+---
