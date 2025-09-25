@@ -65,7 +65,7 @@ Atualmente aprofundando em:
 ## 🌎 Idiomas  
 
 * **Português:** Nativo  
-* **Inglês:** Intermediário  
+* **Inglês:** Básico  
 * **Espanhol:** Básico  
 
 ## 📊 Estatísticas do GitHub  
