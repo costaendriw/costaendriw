@@ -29,9 +29,9 @@ Busco expandir minhas habilidades e contribuir com soluções inovadoras em áre
 Projeto de análise exploratória e visualização de dados de e-commerce, com insights sobre clientes, sazonalidade e performance de vendas.  
 * Tecnologias: Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.  
 
-🔹 **[Sistema de Gerenciamento de Estoque para Pet Shop (CLI)](#)**  
-Aplicação em Python com SQLite3 para CRUD de rações e estatísticas de estoque, estruturada em POO.  
-* Tecnologias: Python, SQLite3, Git.  
+🔹 **[Sistema Marte Pet Shop](#)**  
+Sistema completo de gerenciamento para Pet Shops com interface gráfica  
+* Tecnologias: Python, PyQt5, Pet-shop, ERP, PDV, Point-of-sale  
 
 🔹 **[Ryan AI Agent](https://github.com/costaendriw/ryan_AI_-agent.git)**  
 Agente de IA desenvolvido em Python com integração a modelos de linguagem para automação de tarefas inteligentes.  
