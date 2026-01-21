@@ -1,82 +1,84 @@
-# Olá! 👋 Sou Endriw Costa  
+# Olá! 👋 Sou Endriw Costa
 
-Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio. Minha jornada na programação tem sido diversificada, explorando diferentes tecnologias e paradigmas.  
+Sou **Desenvolvedor Backend Júnior**, com foco em **Python, APIs REST e automações**, atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 
-## 🚀 Minha Trajetória & Experiências Anteriores  
+Desde 2024, venho atuando de forma prática em projetos reais, desenvolvendo integrações, automações e serviços backend voltados a necessidades concretas de negócio. Tenho interesse em ambientes colaborativos, aprendizado contínuo e soluções bem estruturadas.
 
-No meu GitHub, você pode ver projetos que demonstram minha experiência prévia com:  
+---
 
-* **Desenvolvimento Back-end:**  
-  * **Java com Spring Boot:** Construção de APIs robustas e performáticas, como o [ScreenMatch (Back-end)](https://github.com/costaendriw/screenmatch_SpringBoot_Sem_WEB.git) e a API de [Tabela FIPE](https://github.com/costaendriw/tabela-fipe-spring.git).  
-  * **Node.js com Express e MongoDB:** Criação de APIs RESTful para gerenciamento de dados, exemplificado na minha [API de Cadastro de Clientes](https://github.com/costaendriw/API-Node.git).  
+## 🚀 Atuação e Experiência
 
-Esses projetos me proporcionaram uma base sólida em arquitetura de sistemas, consumo de APIs e persistência de dados.  
+Minha experiência prática envolve principalmente:
 
-## 🐍 Foco Atual: Python, Ciência de Dados e Inteligência Artificial  
+### 🔹 Desenvolvimento Back-end
+- Criação e manutenção de **APIs REST**
+- Integração com **APIs externas**
+- Escrita de código limpo, organizado e documentado
+- Versionamento com **Git/GitHub**
+- Trabalho com **bancos de dados relacionais**
 
-Atualmente, estou direcionando meus estudos e minha paixão para o universo de **Python**, com forte foco em:  
+Já desenvolvi projetos utilizando:
+- **Python (FastAPI, automações)**
+- **Java com Spring Boot**
+- **Node.js com Express**
+- **MySQL, PostgreSQL e MongoDB**
 
-* **Ciência de Dados:** Coleta, limpeza, análise e visualização de dados.  
-* **Inteligência Artificial (IA) & Machine Learning (ML):** Aplicação de algoritmos de aprendizado supervisionado e não supervisionado.  
-* **Modelagem Preditiva & Estatística:** Regressão linear/logística, probabilidade, feature engineering.  
-* **Visualização de Dados:** Criação de dashboards interativos e relatórios com **Power BI**, **Tableau** e bibliotecas Python.  
+---
 
-Busco expandir minhas habilidades e contribuir com soluções inovadoras em áreas de alto impacto, utilizando Python para análise e IA.  
+## 📂 Projetos em Destaque
 
-## 📂 Projetos em Destaque  
+### 🔹 [Análise de Vendas E-commerce](https://github.com/costaendriw/ecommerce-analysis)
+Projeto de análise de dados de vendas com foco em extração de insights para negócio.
+- **Tecnologias:** Python, Pandas, NumPy, visualização de dados
 
-🔹 **[Análise de Vendas E-commerce](#)**  
-Projeto de análise exploratória e visualização de dados de e-commerce, com insights sobre clientes, sazonalidade e performance de vendas.  
-* Tecnologias: Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook.  
+### 🔹 [Ryan AI Agent](https://github.com/costaendriw/ryan_AI_-agent.git)
+Agente em Python integrado a APIs de IA para automação de tarefas.
+- **Tecnologias:** Python, APIs, automação
 
-🔹 **[Sistema Marte Pet Shop](#)**  
-Sistema completo de gerenciamento para Pet Shops com interface gráfica  
-* Tecnologias: Python, PyQt5, Pet-shop, ERP, PDV, Point-of-sale  
+### 🔹 [LinkedIn Job Automation Smart](https://github.com/costaendriw/linkedin-job-automation-smart.git)
+Automação para pesquisa e candidatura de vagas.
+- **Tecnologias:** Python, Playwright
 
-🔹 **[Ryan AI Agent](https://github.com/costaendriw/ryan_AI_-agent.git)**  
-Agente de IA desenvolvido em Python com integração a modelos de linguagem para automação de tarefas inteligentes.  
-* Tecnologias: Python, APIs de IA, automação.  
+### 🔹 Projetos Back-end
+- APIs com **Spring Boot**
+- APIs REST com **Node.js**
+- Integrações e persistência de dados  
+(Disponíveis nos repositórios do GitHub)
 
-🔹 **[LinkedIn Job Automation Smart](https://github.com/costaendriw/linkedin-job-automation-smart.git)**  
-Automação inteligente para pesquisa e candidatura de vagas no LinkedIn, otimizando tempo e processos.  
-* Tecnologias: Python, Playwright, automação de tarefas.  
+---
 
-🔹 **Projetos Back-end** (Java, Spring Boot, Node.js, MongoDB) – disponíveis no meu GitHub.  
+## 🛠️ Tecnologias e Competências
 
-## 🌱 O Que Estou Aprendendo & Buscando  
+- **Python**
+- **FastAPI**
+- **APIs REST**
+- **Automação de processos**
+- **SQL (MySQL, PostgreSQL)**
+- **Git / GitHub**
+- **Noções de AWS (conceitos básicos de cloud)**
 
-Atualmente aprofundando em:  
+---
 
-* **Python para Data Science:** Pandas, NumPy, Matplotlib, Seaborn.  
-* **Machine Learning:** Scikit-learn e fundamentos de Deep Learning (TensorFlow/PyTorch em breve).  
-* **Engenharia de Dados:** Introdução a pipelines e boas práticas.  
-* **Automação de Processos:** Aplicação prática com **Selenium** e **Playwright** para automação de tarefas.  
+## 🌱 Em Aprendizado Contínuo
 
-## 💡 Competências  
+Atualmente aprofundando conhecimentos em:
+- Backend com Python
+- Integrações e automações
+- Uso prático de IA via APIs
+- Boas práticas de desenvolvimento backend
 
-✔ Programação em Python, R e SQL  
-✔ Modelagem e análise de dados  
-✔ Machine Learning (Scikit-learn)  
-✔ Visualização de dados (Power BI, Tableau, Excel Avançado)  
-✔ Consumo de APIs RESTful  
-✔ Bancos de dados SQL & NoSQL  
-✔ Trabalho em equipe & comunicação de resultados  
+---
 
-## 🌎 Idiomas  
+## 🌎 Idiomas
 
-* **Português:** Nativo  
-* **Inglês:** Básico  
-* **Espanhol:** Básico  
+- **Português:** Nativo  
+- **Inglês:** Básico (em evolução)
 
-## 📊 Estatísticas do GitHub  
+---
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=costaendriw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=costaendriw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+## 🤝 Contato
 
-## 🤝 Conecte-se Comigo!  
-
-Estou sempre aberto a novas conexões e oportunidades de aprendizado. Vamos trocar ideias!  
-
-* **LinkedIn:** [www.linkedin.com/in/endriwcosta](https://www.linkedin.com/in/endriwcosta)  
-* **Email:** endriwcosta3@gmail.com  
-* **GitHub:** [github.com/costaendriw](https://github.com/costaendriw)  
+- **LinkedIn:** https://www.linkedin.com/in/endriwcosta  
+- **Email:** endriwcosta3@gmail.com  
+- **GitHub:** https://github.com/costaendriw
+  
