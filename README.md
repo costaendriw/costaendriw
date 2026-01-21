@@ -1,71 +1,91 @@
-# Olá! 👋 Sou Endriw Costa
+# 👋 Olá! Eu sou Endriw Costa  
 
 Sou **Desenvolvedor Backend Júnior**, com foco em **Python, APIs REST e automações**, atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 
-Desde 2024, venho atuando de forma prática em projetos reais, desenvolvendo integrações, automações e serviços backend voltados a necessidades concretas de negócio. Tenho interesse em ambientes colaborativos, aprendizado contínuo e soluções bem estruturadas.
+Desde 2024, atuo de forma prática no desenvolvimento de **soluções backend aplicadas a problemas reais**, criando APIs, integrações e automações orientadas a negócio. Tenho interesse em ambientes colaborativos, aprendizado contínuo e boas práticas de desenvolvimento.
 
 ---
 
-## 🚀 Atuação e Experiência
+## 🚀 Experiência Prática em Backend
 
-Minha experiência prática envolve principalmente:
+Minha atuação envolve principalmente:
 
 ### 🔹 Desenvolvimento Back-end
-- Criação e manutenção de **APIs REST**
-- Integração com **APIs externas**
-- Escrita de código limpo, organizado e documentado
-- Versionamento com **Git/GitHub**
-- Trabalho com **bancos de dados relacionais**
+- Criação, manutenção e evolução de **APIs REST**
+- Integração com **APIs externas e serviços de terceiros**
+- Desenvolvimento de **automações** para ganho de eficiência
+- Escrita de código **limpo, organizado e documentado**
+- Versionamento e colaboração com **Git/GitHub**
+- Uso de **bancos de dados relacionais e NoSQL**
 
-Já desenvolvi projetos utilizando:
-- **Python (FastAPI, automações)**
-- **Java com Spring Boot**
-- **Node.js com Express**
+### Tecnologias já utilizadas em projetos:
+- **Python** (FastAPI, automações, integrações)
+- **Java** com Spring Boot
+- **Node.js** com Express
 - **MySQL, PostgreSQL e MongoDB**
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🔹 [Análise de Vendas E-commerce](https://github.com/costaendriw/ecommerce-analysis)
-Projeto de análise de dados de vendas com foco em extração de insights para negócio.
-- **Tecnologias:** Python, Pandas, NumPy, visualização de dados
-
-### 🔹 [Ryan AI Agent](https://github.com/costaendriw/ryan_AI_-agent.git)
-Agente em Python integrado a APIs de IA para automação de tarefas.
-- **Tecnologias:** Python, APIs, automação
-
-### 🔹 [LinkedIn Job Automation Smart](https://github.com/costaendriw/linkedin-job-automation-smart.git)
-Automação para pesquisa e candidatura de vagas.
-- **Tecnologias:** Python, Playwright
-
-### 🔹 Projetos Back-end
-- APIs com **Spring Boot**
-- APIs REST com **Node.js**
-- Integrações e persistência de dados  
-(Disponíveis nos repositórios do GitHub)
+### 🔹 [Delivery System](https://github.com/costaendriw/delivery-system)
+Sistema completo de gerenciamento de entregas com backend em FastAPI e frontend em React.
+- Cadastro de clientes e pedidos  
+- Controle de estoque  
+- Dashboard em tempo real e notificações  
+- **Tecnologias:** Python, FastAPI, SQL, React
 
 ---
 
-## 🛠️ Tecnologias e Competências
+### 🔹 [Ryan AI Agent](https://github.com/costaendriw/ryan_AI_-agent)
+Agente de IA para automação de atendimento e tarefas inteligentes.
+- Integração com APIs de LLMs  
+- Análise de sentimento  
+- Arquitetura organizada seguindo princípios SOLID  
+- **Tecnologias:** Python, Flask, APIs de IA
+
+---
+
+### 🔹 [LinkedIn Job Automation Smart](https://github.com/costaendriw/linkedin-job-automation-smart)
+Automação inteligente para busca e candidatura de vagas no LinkedIn.
+- Foco em produtividade e otimização de processos  
+- **Tecnologias:** Python, Playwright
+
+---
+
+### 🔹 [E-commerce Analysis](https://github.com/costaendriw/ecommerce-analysis)
+Análise exploratória de dados de vendas com foco em métricas de negócio.
+- Insights sobre clientes, sazonalidade e performance  
+- **Tecnologias:** Python, Pandas, NumPy, visualização de dados
+
+---
+
+### 🔹 Outros Projetos Back-end
+- APIs REST com **Spring Boot**
+- APIs e integrações com **Node.js**
+- Sistemas completos disponíveis nos repositórios
+
+---
+
+## 🛠️ Tecnologias & Competências
 
 - **Python**
 - **FastAPI**
 - **APIs REST**
-- **Automação de processos**
+- **Integrações e automações**
 - **SQL (MySQL, PostgreSQL)**
 - **Git / GitHub**
-- **Noções de AWS (conceitos básicos de cloud)**
+- **Noções de Cloud (AWS – conceitos básicos)**
 
 ---
 
-## 🌱 Em Aprendizado Contínuo
+## 🌱 Em Desenvolvimento Contínuo
 
 Atualmente aprofundando conhecimentos em:
 - Backend com Python
-- Integrações e automações
-- Uso prático de IA via APIs
-- Boas práticas de desenvolvimento backend
+- Arquitetura e boas práticas de APIs
+- Integrações com serviços e IA via APIs
+- Automação de processos e eficiência operacional
 
 ---
 
@@ -80,5 +100,4 @@ Atualmente aprofundando conhecimentos em:
 
 - **LinkedIn:** https://www.linkedin.com/in/endriwcosta  
 - **Email:** endriwcosta3@gmail.com  
-- **GitHub:** https://github.com/costaendriw
-  
+- **GitHub:** https://github.com/costaendriw  
